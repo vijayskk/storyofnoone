@@ -1,0 +1,4 @@
+repository "Story of No One@Gamelab@cloud"
+  path "/"
+    br "/main"
+    co "/main"
